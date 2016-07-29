@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "688434233474",
+    "firebase_url": "https://kulay-cc437.firebaseio.com",
+    "project_id": "kulay-cc437",
+    "storage_bucket": "kulay-cc437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688434233474:android:c1c3e82ab4f5f060",
+        "android_client_info": {
+          "package_name": "com.uberprinny.kulay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688434233474-j8hgb9a16qaplam7knffqva87unmii6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uberprinny.kulay",
+            "certificate_hash": "B53CD422C6DD09F5BA2ACCB612FA8B4C815E922C"
+          }
+        },
+        {
+          "client_id": "688434233474-cmsc9s2ovfk9bgle1vnfl57ten02mhch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKXY8A75xOKryS78ivu7ZBXsYfL8xyJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688434233474-cmsc9s2ovfk9bgle1vnfl57ten02mhch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
