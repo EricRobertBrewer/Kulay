@@ -1,4 +1,4 @@
-package com.uberprinny.kulay;
+package com.bunga.kulay;
 
 import org.junit.Test;
 

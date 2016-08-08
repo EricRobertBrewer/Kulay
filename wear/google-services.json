@@ -8,26 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:688434233474:android:c1c3e82ab4f5f060",
+        "mobilesdk_app_id": "1:688434233474:android:02f885d778246463",
         "android_client_info": {
-          "package_name": "com.uberprinny.kulay"
+          "package_name": "com.bunga.kulay"
         }
       },
       "oauth_client": [
         {
-          "client_id": "688434233474-t7jgdg0ga2pe6q5tte8g8e5p7lnja1oe.apps.googleusercontent.com",
+          "client_id": "688434233474-o9a6ps1ne5hhuqoinjl5mu6ar8fvrrnn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.uberprinny.kulay",
-            "certificate_hash": "5D8E03D6BA0D77865E3B3E5214513247BC05D37B"
-          }
-        },
-        {
-          "client_id": "688434233474-j8hgb9a16qaplam7knffqva87unmii6j.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.uberprinny.kulay",
-            "certificate_hash": "B53CD422C6DD09F5BA2ACCB612FA8B4C815E922C"
+            "package_name": "com.bunga.kulay",
+            "certificate_hash": "28A96B04A540487434970B8B1FB309D25AB400E3"
           }
         },
         {

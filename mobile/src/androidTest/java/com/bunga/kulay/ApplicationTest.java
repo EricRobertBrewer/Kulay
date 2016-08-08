@@ -1,4 +1,4 @@
-package com.uberprinny.kulay;
+package com.bunga.kulay;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

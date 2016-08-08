@@ -1,4 +1,4 @@
-package com.uberprinny.kulay.model;
+package com.bunga.kulay.model;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,22 +6,22 @@ import java.util.Map;
 /**
  * Created by ebrewer on 7/27/16.
  */
-public class Color {
+public class User {
 
-    public String userId;
+    public int favoriteColor;
     public long timestamp;
 
-    public Color() {
+    public User() {
     }
 
-    public Color(String userId, long timestamp) {
-        this.userId = userId;
+    public User(int favoriteColor, long timestamp) {
+        this.favoriteColor = favoriteColor;
         this.timestamp = timestamp;
     }
 
     public Map<String, Object> toMap() {
         HashMap<String, Object> map = new HashMap<>();
-        map.put("userId", userId);
+        map.put("favoriteColor", favoriteColor);
         map.put("timestamp", timestamp);
         return map;
     }

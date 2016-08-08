@@ -1,4 +1,4 @@
-package com.uberprinny.kulay;
+package com.bunga.kulay;
 
 import android.content.Context;
 import android.graphics.Color;
