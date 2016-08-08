@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "688434233474-t7jgdg0ga2pe6q5tte8g8e5p7lnja1oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uberprinny.kulay",
+            "certificate_hash": "5D8E03D6BA0D77865E3B3E5214513247BC05D37B"
+          }
+        },
+        {
           "client_id": "688434233474-j8hgb9a16qaplam7knffqva87unmii6j.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
