@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>random_tap_repetition_message</key>
+        <value>C'mon, there are only 4294967296 colors... Just pick one!</value>
+        <key>random_tap_repetition_count</key>
+        <value>12</value>
+    </entry>
+</defaultsMap>

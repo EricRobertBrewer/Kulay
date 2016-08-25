@@ -3,10 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".ColorActivity">
     <item
-        android:id="@+id/action_toggle_color_value_input"
-        android:icon="@drawable/ic_expand_more_white_24dp"
+        android:id="@+id/action_random"
+        android:icon="@drawable/ic_perspective_dice_six_faces_two"
+        android:title="@string/action_random"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_done_white_24dp"
         android:orderInCategory="1"
-        android:title="@string/action_show_color_value_input"
+        android:title="@string/action_save"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_settings"

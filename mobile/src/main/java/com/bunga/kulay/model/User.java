@@ -8,13 +8,13 @@ import java.util.Map;
  */
 public class User {
 
-    public int favoriteColor;
+    public long favoriteColor;
     public long timestamp;
 
     public User() {
     }
 
-    public User(int favoriteColor, long timestamp) {
+    public User(long favoriteColor, long timestamp) {
         this.favoriteColor = favoriteColor;
         this.timestamp = timestamp;
     }
